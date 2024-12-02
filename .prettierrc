@@ -1,0 +1,10 @@
+{
+	"trailingComma": "all",
+	"semi": true,
+	"singleQuote": true,
+	"singleAttributePerLine": true,
+	"useTabs": true,
+	"printWidth": 100,
+	"pluginSearchDirs": true,
+	"arrowParens": "always"
+}
